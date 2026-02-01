@@ -1,4 +1,6 @@
 ## Sales & Profit Dashboard
+<img width="811" height="544" alt="Excel result Dashboard " src="https://github.com/user-attachments/assets/1da3b3f4-df2f-40ab-b902-7149d6899c2b" />
+
 
 ## 📊 Project Overview
 This dashboard provides a comprehensive analysis of retail sales and profit performance across multiple dimensions including product categories, geographic regions, time periods, and customer segments. The data spans from 2021 through 2024, offering valuable insights into business performance trends.
@@ -21,13 +23,14 @@ The dataset contains the following fields:
 11. Year: Year of the transaction
     
 ## 📊 Dashboard Components
-# 1. Sales by State
+### 1. Sales by State
 
 a. Visualizes geographic sales distribution across the United States
 
 b. Shows which states contribute most significantly to overall revenue
 
-2. Profit by Year
+
+### 2. Profit by Year
 
 a. Compares profit performance across different years
 
@@ -35,19 +38,22 @@ b. Breaks down profit by product category (Office Supplies, Furniture, Technolog
 
 c. Highlights seasonal and year-over-year trends
 
-3. Customer Count by Year
+
+### 3. Customer Count by Year
 
 a. Tracks customer acquisition and retention over time
 
 b. Shows growth patterns in customer base
 
-4. Top 5 Customer Profit
+
+### 4. Top 5 Customer Profit
 
 a. Identifies the most profitable customers 
 
 b. Shows contribution of top customers to overall profitability
 
-5. Sales by Category
+
+### 5. Sales by Category
 
 a. Breaks down sales performance by product category
 
@@ -55,7 +61,8 @@ b. Shows which categories drive the most revenue
 
 c. Includes detailed sub-category analysis
 
-6. Sales by Month
+
+### 6. Sales by Month
 
 a. Visualizes monthly sales patterns
 
@@ -63,8 +70,10 @@ b. Identifies seasonal peaks and troughs
 
 c. Shows consistent monthly performance trends
 
+
 ## 🔍 Key Business Insights
-1. Category Performance:
+
+### 1. Category Performance:
 
 a. Office Supplies consistently generates the highest sales volume
 
@@ -72,7 +81,8 @@ b. Technology products show strong profit margins despite lower sales volume
 
 c. Furniture has moderate sales but variable profit margins
 
-2. Seasonal Patterns:
+
+### 2. Seasonal Patterns:
 
 a. Highest sales occur in November and December (holiday season)
 
@@ -80,7 +90,8 @@ b. February typically shows the lowest sales volume
 
 c. Consistent monthly sales pattern with quarterly peaks
 
-3. Geographic Distribution:
+
+### 3. Geographic Distribution:
 
 a. Sales are concentrated in major metropolitan areas
 
@@ -88,11 +99,13 @@ b. Western and Eastern states show higher sales volumes than central states
 
 c. Certain states consistently outperform others in both sales and profit
 
-4. Customer Profitability:
+
+### 4. Customer Profitability:
 
 a. A small percentage of customers (top 5) contribute disproportionately to overall profit
 
 b. Customer profitability varies significantly by region and product category
+
 
 ## 💡 Strategic Implications
 a. Focus marketing efforts on high-profit customer segments
@@ -107,7 +120,8 @@ d. Consider product bundling strategies that combine high-volume and high-margin
 <img width="444" height="141" alt="Screenshot 2026-02-02 at 00 47 45" src="https://github.com/user-attachments/assets/c8bc9e9a-ca64-43d9-ab7a-e2659e7c5955" />
 
 
-🛠️ How to Use This Data
+## 🛠️ How to Use This Data
+
 a. Filter by year to analyze specific time periods
 
 b. Use category and sub-category filters to identify top-performing products
@@ -118,7 +132,8 @@ d. Analyze customer profit data to identify most valuable customers
 
 e. Cross-reference sales and profit metrics to evaluate product profitability
 
-📝 Notes
+## 📝 Notes
+
 a. Data spans from 2021 through 2024
 
 b. Negative profit values indicate loss-making transactions or potential data anomalies
