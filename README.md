@@ -24,58 +24,74 @@ The dataset contains the following fields:
 1. Sales by State
 
 a. Visualizes geographic sales distribution across the United States
+
 b. Shows which states contribute most significantly to overall revenue
 
 2. Profit by Year
 
 a. Compares profit performance across different years
+
 b. Breaks down profit by product category (Office Supplies, Furniture, Technology)
+
 c. Highlights seasonal and year-over-year trends
 
 3. Customer Count by Year
 
 a. Tracks customer acquisition and retention over time
+
 b. Shows growth patterns in customer base
 
 4. Top 5 Customer Profit
 
 a. Identifies the most profitable customers 
+
 b. Shows contribution of top customers to overall profitability
 
 5. Sales by Category
 
 a. Breaks down sales performance by product category
+
 b. Shows which categories drive the most revenue
+
 c. Includes detailed sub-category analysis
 
 6. Sales by Month
 
 a. Visualizes monthly sales patterns
+
 b. Identifies seasonal peaks and troughs
+
 c. Shows consistent monthly performance trends
 
 ## 🔍 Key Business Insights
 1. Category Performance:
 
 a. Office Supplies consistently generates the highest sales volume
+
 b. Technology products show strong profit margins despite lower sales volume
+
 c. Furniture has moderate sales but variable profit margins
 
 2. Seasonal Patterns:
 
 a. Highest sales occur in November and December (holiday season)
+
 b. February typically shows the lowest sales volume
+
 c. Consistent monthly sales pattern with quarterly peaks
 
 3. Geographic Distribution:
 
 a. Sales are concentrated in major metropolitan areas
+
 b. Western and Eastern states show higher sales volumes than central states
+
 c. Certain states consistently outperform others in both sales and profit
 
 4. Customer Profitability:
 
 a. A small percentage of customers (top 5) contribute disproportionately to overall profit
+
 b. Customer profitability varies significantly by region and product category
 
 ## 💡 Strategic Implications
