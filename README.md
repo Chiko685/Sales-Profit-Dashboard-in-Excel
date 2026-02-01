@@ -21,7 +21,7 @@ The dataset contains the following fields:
 11. Year: Year of the transaction
     
 ## 📊 Dashboard Components
-1. Sales by State
+# 1. Sales by State
 
 a. Visualizes geographic sales distribution across the United States
 
