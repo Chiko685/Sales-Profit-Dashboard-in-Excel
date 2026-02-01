@@ -79,15 +79,22 @@ d. Consider product bundling strategies that combine high-volume and high-margin
 
 🛠️ How to Use This Data
 a. Filter by year to analyze specific time periods
+
 b. Use category and sub-category filters to identify top-performing products
+
 c. Segment by state to understand regional performance
+
 d. Analyze customer profit data to identify most valuable customers
+
 e. Cross-reference sales and profit metrics to evaluate product profitability
 
 📝 Notes
 a. Data spans from 2021 through 2024
+
 b. Negative profit values indicate loss-making transactions or potential data anomalies
+
 c. The dashboard is designed for executive-level decision making and strategic planning
+
 d. All monetary values are in USD
 
 
